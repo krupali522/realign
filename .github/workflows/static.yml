@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Dr. Krupali Sawant PT| Physiotherapist</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 0;
+      color: #333;
+      line-height: 1.6;
+    }
+    header {
+      background: url('p1.jpg') no-repeat center center/cover;
+      color: rgb(12, 12, 12);
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      padding: 0 20px;
+    }
+    header h1 {
+      font-size: 3em;
+      margin: 0;
+    }
+    header p {
+      font-size: 1.3em;
+      margin: 10px 0;
+    }
+    .cta-buttons {
+      margin-top: 20px;
+    }
+    .cta-buttons a {
+      text-decoration: none;
+      background: #007BFF;
+      color: white;
+      padding: 12px 24px;
+      border-radius: 5px;
+      margin: 10px;
+      font-weight: bold;
+    }
+    section {
+      padding: 50px 20px;
+      max-width: 1000px;
+      margin: auto;
+    }
+    h2 {
+      color: #007BFF;
+      border-bottom: 2px solid #eee;
+      padding-bottom: 10px;
+      margin-bottom: 20px;
+    }
+    .gallery img {
+      width: 30%;
+      margin: 10px;
+      border-radius: 8px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    }
+    ul {
+      padding-left: 20px;
+    }
+    footer {
+      background: #007BFF;
+      color: white;
+      text-align: center;
+      padding: 20px;
+    }
+    footer a {
+      color: white;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    .info p {
+      margin: 5px 0;
+    }
+    @media (max-width: 768px) {
+      .gallery img {
+        width: 100%;
+      }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Krupali Sawant</h1>
+  <p>Physiotherapist | Dry Needling | Aquatic Therapy | Acute, Sports & neuro rehab</p>
+  <div class="cta-buttons">
+    
+<a href="https://wa.me/919022736809" target="_blank">📅 Book Consultation on WhatsApp</a>
+
+  </div>
+</header>
+
+<section>
+  <h2>About Me</h2>
+  <p>Dedicated and compassionate physiotherapist with a strong background in acute care, committed to improving patient outcomes through evidence-based interventions and a patient-centered approach. I aim to contribute my clinical expertise and passion for rehabilitation within dynamic healthcare environments.</p>
+</section>
+
+<section>
+  <h2>Experience</h2>
+  <ul>
+    <li><strong>Goa Medical College and Hospital (Sept 2024 – April 2025)</strong><br/>6-month clinical internship in orthopedics, neurology, plastic surgery, pediatrics, and more.</li>
+    <li><strong>FC Goa – Little Gaur's League (Sept 2024 – April 2025)</strong><br/>Junior Physiotherapist providing on-field injury management and rehab for youth players.</li>
+    <li><strong>60th National Level Badminton Tournament (Mar 2025)</strong><br/>Physiotherapist supporting professional players during the event.</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Education & Certifications</h2>
+  <ul>
+   
+    <li><strong>Certified Dry Needling Therapist</strong> – Physioneeds Academy (2023)</li>
+    <li><strong>Functional Integrated Aquatic Therapy</strong> – Srinivas University (2023)</li>
+    <li><strong>Manual Therapy Practitioner</strong> – Certified in 2022</li>
+    
+  </ul>
+</section>
+
+<section>
+  <h2>Skills</h2>
+  <ul>
+    <li>Patient Assessment & Rehab Planning</li>
+    <li>Communication & Patient Education</li>
+    <li>Acute Care & Respiratory Physiotherapy</li>
+    <li>Dry Needling & Manual Therapy</li>
+    <li>Aquatic Therapy & Sports Injury Management</li>
+  </ul>
+</section>
+
+
+<section>
+  <h2>Languages</h2>
+  <p>English, Hindi, Konkani, Marathi, Kannada</p>
+</section>
+
+<section>
+  <h2>Gallery</h2>
+  <div class="gallery">
+    <img src="p2.jpg" alt="Dry needling">
+    <img src="p3.jpg" alt="Event support">
+    <img src="p4.jpg" alt="Conference Award">
+    <img src="p6.jpg" alt="Workshop Participation">
+    <img src="p7.jpg" alt="Treatment Session">
+    <img src="p8.jpg" alt="Physiotherapy Practice">
+  </div>
+</section>
+
+<section id="contact">
+  <h2>Contact</h2>
+  <div class="info">
+    <p><strong>📍 Address:</strong> Shimecho Sarvo, Bhaidwada, Korgao, Pernem, Goa</p>
+    <p><strong>📞 Phone:</strong> +91 9022736809</p>
+    <p><strong>📧 Email:</strong> <a href="mailto:krupaliisawant@gmail.com">krupaliisawant@gmail.com</a></p>
+    <p><strong>🌐 Instagram:</strong> <a href="https://www.instagram.com/realigngoa__?igsh=MWNib3hjcHA0ejhwZw==" target="_blank">@realigngoa__</a></p>
+   
+   
+  </div>
+</section>
+
+<footer>
+  &copy; 2025 Krupali Sawant | All rights reserved. <br>
+  <a href="https://www.instagram.com/realigngoa__?igsh=MWNib3hjcHA0ejhwZw==" target="_blank">📸 Follow on Instagram</a>
+</footer>
+
+</body>
+</html>
